@@ -4,6 +4,7 @@ Aplicação direcionada a aprensentar informações institucionais da comunidade
 
 # Tecnologias e Ambientes
 
+Para acompanhar o status do desenvolvimento recomenda-se visitar a [Página de Projeto](https://github.com/brutovalley/site/projects/1?fullscreen=true).
 
 ## Produção
 O website está sendo servido via serviço "Firebase Hosting".
