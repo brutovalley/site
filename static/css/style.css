@@ -668,7 +668,7 @@ section {
 # About Boxes
 --------------------------------------------------------------*/
 .sobre-boxes {
-  background: url("../img/about-boxes-bg.jpg") center top no-repeat fixed;
+  background: center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 30px 0;
   position: relative;
